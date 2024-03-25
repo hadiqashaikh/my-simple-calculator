@@ -1,0 +1,23 @@
+{
+  "name": "diff01calculator",
+  "version": "1.0.0",
+  "description": "a simple calculator with typscript, node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "publishconfig": {
+    "access": "publish"
+  },
+  "bin":"app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
